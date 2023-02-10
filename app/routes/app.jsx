@@ -2,7 +2,7 @@ import Sidebar from "./Sidebar";
 
 export default function app(){
     return <div>
-        <Sidebar
+        <h1>sa</h1>
 
         {/*Sidebar*/}
 
